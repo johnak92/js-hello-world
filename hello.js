@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello? World!");console.log(88);console.log("Hello, Birdie!");
+console.log("Hello? World!");console.log(8+8);console.log("Hello, Birdie!");console.log('8+8')
 console.log("'What' \tshould I say?")
 
 //Blerp blorp
